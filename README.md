@@ -1,4 +1,4 @@
-# EU-DGC QrCode verify <SIGN_KEY_ID> from Public Key
+# EUDGC QrCode verify SIGN_KEY_ID from Public Key
 
 Node.js PoC to parse and generate european vaccination certificate QR codes
 
@@ -11,7 +11,8 @@ Node.js PoC to parse and generate european vaccination certificate QR codes
 > The QRcode is signed with a private key to certify its authenticity, so except if you found a way to get it (which is nearly impossible). Your QRcode will be Generated and Decoded with your personal details **BUT marked as invalid** in some applications (web android ios).
 This project allows you to make deep exercice with QRcode, CBOR, COSE, Zlib and more stuff. Please not to do forgery, or counterfeiting.
 >
-> If you have any question about how it works, please: first time to read ehealth/docs/covid-certificate_json_specification_en.pdf.
+> If you have any question about how it works, please first take time to read more about the structure.
+> Big thanks to Pr Jari from https://blog.hqcodeshop.fi/
 
 ## How it works
 
