@@ -39,9 +39,13 @@ nvm use 12
 ```bash
 git clone https://github.com/camillegroult/EUDGC-QrCode-Verify-x509.git
 cd EUDGC-QrCode-Verify-x509
+make a new file name it "lib" and please put it inside : defs.js + extractor+generator.js
 npm i
 ```
 
+## Environement  : 
+```bash
+High sierra>=10.13.6 Node>=12 npm>=8.1.3
 ## Usage
 
 ```bash
