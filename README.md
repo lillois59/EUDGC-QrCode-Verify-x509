@@ -1,6 +1,6 @@
 # EUDGC Signer SIGN_KEY_ID from Public Key
 
-Node.js PoC to parse and generate european vaccination certificate QR codes
+PoC to create an european valid vaccination "certificate" QR codes with european standards open sources codes and librairy
 
 > 🛑 **DISCLAIMER PLEASE READ** 🛑
 >
