@@ -13,7 +13,7 @@ PoC to create an european valid vaccination "certificate" QR codes with european
 This project allows you to make deep exercice with QRcode, CBOR, COSE, Zlib and more stuff. Please not to do forgery, or counterfeiting.
 >
 > If you have any question about how it works, please first take time to read more about the structure.
-> Big thanks to Pr Jari from https://blog.hqcodeshop.fi/
+> https://linkedin.com/in/lillois
 
 ## How it works
 
